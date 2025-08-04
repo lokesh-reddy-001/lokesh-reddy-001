@@ -4,7 +4,7 @@
 <h3 align="center">As a Dedicated Resource for client projects, my deliverables and contributions are retained within private domains and are not publicly visible.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=03F8FF&center=true&vCenter=true&width=435&lines=Full+Stack+DevOps+Networking;Cloud+Native+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=03F8FF&center=true&vCenter=true&width=435&lines=Full+Stack+DevOps+and+Networking;Hybrid+Infrastructure;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,6 +20,7 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,jenkins,terraform,ansible,kubernetes,git,github,linux,bash,python,aws,azure" />
+  <h3 align="center">“My DevOps pipelines supports a hybrid infrastructure across cloud, on-premise, and offline edge devices.”</h3>
 </p>
 
 ---
