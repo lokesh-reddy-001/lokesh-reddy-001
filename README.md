@@ -1,6 +1,8 @@
 <!-- Lokesh Reddy's GitHub Profile -->
 
-<h1 align="center">Hi 👋, I'm Lokesh Reddy</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Reddy
+
+You will not see any contributions here, since I'm a Dedicated Resource</h1>
 <h3 align="center">Full Stack DevOps & Networking </h3>
 
 <p align="center">
