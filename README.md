@@ -12,7 +12,7 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/lokeshreddy001" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:lokesh@anscer.com"><img src="https://img.shields.io/badge/Email-lokesh@anscer.com-red?logo=gmail" /></a>
+  <a href="mailto:lokesh@anscer.com"><img src="https://img.shields.io/badge/Email-punuru.lokeshreddy@gmail.com-red?logo=gmail" /></a>
 </p>
 
 ---
