@@ -1,7 +1,7 @@
 <!-- Lokesh Reddy's GitHub Profile -->
 
 <h1 align="center">Hi 👋, I'm Lokesh Reddy</h1>
-<h3 align="center">As a Dedicated Resource for client projects, my deliverables and contributions are retained within private domains and are not publicly visible.</h3>
+<h3 align="center">"As a Dedicated Resource for client projects, my deliverables and contributions are retained within private domains and are not publicly visible."</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=03F8FF&center=true&vCenter=true&width=435&lines=Full+Stack+DevOps+and+Networking;Hybrid+Infrastructure;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
